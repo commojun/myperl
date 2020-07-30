@@ -1,0 +1,1 @@
+docker run -it -v $PWD:/home/app/work --rm myperl:latest bash
