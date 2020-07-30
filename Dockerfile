@@ -29,7 +29,7 @@ ENV HOME /home/app
 
 ENV PATH /usr/local/perl/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin
 
-WORKDIR /home/app
+WORKDIR /home/app/work
 
 # for reply
 COPY .replyrc /home/app/
